@@ -1,0 +1,8 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+@media (max-width: 420px) {
+  nav .brand-logo.center {
+    left: 35% !important; 
+    transform: translateX(-50%);
+  } 
+}
